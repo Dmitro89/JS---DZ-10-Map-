@@ -1,0 +1,16 @@
+#map-search{
+	min-height: 600px;
+}
+
+input{
+	width: 150px;
+}
+
+form{
+	background: silver;
+}
+
+p{
+	display: inline-block;
+	padding-left: 20px;
+}
